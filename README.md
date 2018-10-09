@@ -18,7 +18,7 @@ composer require alexandermatveev/fontawesome-bundle
 Refer to the desired files in your HTML template, e.g.
 
 ``` html
-<link href="{{ asset('bundles/alexandermatveevfontawesome/fontawesome.min.css') }}" rel="stylesheet">
+<link href="{{ asset('bundles/alexandermatveevfontawesome/css/fontawesome.min.css') }}" rel="stylesheet">
 ```
 
 ## Licenses
