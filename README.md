@@ -21,7 +21,7 @@ Refer to the desired files in your HTML template, e.g.
 <link href="{{ asset('bundles/alexandermatveevfontawesome/css/all.min.css') }}" rel="stylesheet">
 ```
 
-## Start using it!
+## Example
 
 ``` html
 <i class="far fa-thumbs-up"></i>
